@@ -2,10 +2,14 @@ This project involves analyzing a dataset from Zomato to gain insights into rest
 
 Solved the problems statement:
 
-Q1: Type of Restaurant do the  majority of customer order  
+Q1: Type of Restaurant do the  majority of customer order 
+
 Q2)Total Votes each restaurante has recived
+
 Q3) Ratings that majority of reataurant has recived 
+
 Q4) Average spending of couples on each order
+
 Q5) Type of Payment Mode
 
 
