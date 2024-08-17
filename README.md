@@ -1,1 +1,1 @@
-# zomato-analysis
+This project involves analyzing a dataset from Zomato to gain insights into restaurant trends, customer preferences, and various other aspects of the dining experience. The analysis is performed using Python and various data analysis and visualization libraries.
